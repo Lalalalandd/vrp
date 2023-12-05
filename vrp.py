@@ -6,7 +6,7 @@ from cplex.exceptions import CplexError
 j = 15
 k1 = 1
 k2 = 1
-k3 = 1
+k3 = 1 #katanya kendaraan boleh lebih dari 3
 cap1 = 360
 cap2 = 800
 cap3 = 1350
